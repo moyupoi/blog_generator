@@ -1,1 +1,1 @@
-# blog_generator
+生成Hexo3博客静态文件工具
